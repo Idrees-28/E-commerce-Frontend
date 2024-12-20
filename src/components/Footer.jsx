@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            At Forever, we believe that fashion is an expression of who you are. Founded in 1987, we set out to create a brand that offers stylish, high-quality clothing for everyone. Our team is passionate about design and dedicated to bringing you the latest trends at affordable prices.
+            At AllInOne, we believe that fashion is an expression of who you are. Founded in 1987, we set out to create a brand that offers stylish, high-quality clothing for everyone. Our team is passionate about design and dedicated to bringing you the latest trends at affordable prices.
             </p>
         </div>
 
@@ -26,8 +26,8 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
-                <li>+91 9083837282</li>
-                <li>purushothaman17dev@gmail.com</li>
+                <li>+91 8838123672</li>
+                <li>idreesjee2810@gmail.com</li>
             </ul>
         </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ forever.com - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ AllInOne.com - All Right Reserved.</p>
         </div>
 
     </div>
